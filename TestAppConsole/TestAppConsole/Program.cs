@@ -10,7 +10,7 @@ namespace TestAppConsole
     {
         static void Main(string[] args)
         {
-            Console.Write("Hey");
+            Console.Write("Hey you!");
             Console.Read();
         }
     }
